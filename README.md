@@ -33,8 +33,6 @@ Para rodar e modificar os códigos na nuvem, sem precisar instalar nada, clique 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rodrimelo/ppge-pad-relatorio-03-rodrigo-melo/blob/main/relatorio-03-rodrigo-melo.ipynb)
 
-*(Lembre-se de substituir `SEU_USUARIO` e `NOME_DO_REPOSITORIO` no link acima pelo caminho real do seu GitHub).*
-
 ### 3. Execução Local
 Caso prefira rodar localmente na sua máquina:
 1. Clone este repositório:
