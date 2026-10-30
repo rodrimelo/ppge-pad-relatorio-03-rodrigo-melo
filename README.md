@@ -5,7 +5,7 @@
 
 | Campo | Informação |
 |---|---|
-| **Aluno(a)** | ROdrigo Massao Yoshihara de ALbuquerque Melo|
+| **Aluno(a)** | Rodrigo Massao Yoshihara de ALbuquerque Melo|
 | **Matrícula** | 20261002321 |
 | **Disciplina** | Programação e Análise de Dados com Python — PPGE/UFPB |
 | **Professor** | Prof. Dr. Hilton Ramalho |
